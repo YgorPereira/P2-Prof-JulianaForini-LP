@@ -1,0 +1,10 @@
+Aluno: Luana Souza
+CPF: 98765432100
+IMC: 22,89 (Calculado em 2024-11-25)
+Interpretação do IMC: peso normal
+-----------------------------
+Aluno: Luana Souza
+CPF: 98765432100
+IMC: 22,89 (Calculado em 2024-11-25)
+Interpretação do IMC: peso normal
+-----------------------------

@@ -1,0 +1,10 @@
+Aluno: Ygor Pereira
+CPF: 98765432100
+IMC: 24,98 (Calculado em 2024-11-25)
+Interpretação do IMC: obesidade grau III
+-----------------------------
+Aluno: Ygor Pereira
+CPF: 12345678900
+IMC: 24,98 (Calculado em 2024-11-25)
+Interpretação do IMC: obesidade grau III
+-----------------------------
